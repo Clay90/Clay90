@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Clay90
+- 👋 Hi, I’m Kishor Chouhan
 - 👀 I’m interested in ... App development
 - 🌱 I’m currently learning ... Manipal university jaipur,
 -
